@@ -1,0 +1,9 @@
+# Dark theme (default) — neutral grey palette
+[theme]
+base = "dark"
+backgroundColor = "#1a1a1a"
+secondaryBackgroundColor = "#222222"
+textColor = "#e8e8e8"
+primaryColor = "#3a3a3a"
+borderColor = "#3a3a3a"
+font = "sans-serif"
